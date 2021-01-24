@@ -1,0 +1,13 @@
+C:\Users\Игорь\source\repos\DIR and CD\CD\bin\Debug\netcoreapp2.2\CD.deps.json
+C:\Users\Игорь\source\repos\DIR and CD\CD\bin\Debug\netcoreapp2.2\CD.runtimeconfig.json
+C:\Users\Игорь\source\repos\DIR and CD\CD\bin\Debug\netcoreapp2.2\CD.runtimeconfig.dev.json
+C:\Users\Игорь\source\repos\DIR and CD\CD\bin\Debug\netcoreapp2.2\CD.dll
+C:\Users\Игорь\source\repos\DIR and CD\CD\bin\Debug\netcoreapp2.2\CD.pdb
+C:\Users\Игорь\source\repos\DIR and CD\CD\obj\Debug\netcoreapp2.2\CD.csprojAssemblyReference.cache
+C:\Users\Игорь\source\repos\DIR and CD\CD\obj\Debug\netcoreapp2.2\CD.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\DIR and CD\CD\obj\Debug\netcoreapp2.2\CD.AssemblyInfoInputs.cache
+C:\Users\Игорь\source\repos\DIR and CD\CD\obj\Debug\netcoreapp2.2\CD.AssemblyInfo.cs
+C:\Users\Игорь\source\repos\DIR and CD\CD\obj\Debug\netcoreapp2.2\CD.dll
+C:\Users\Игорь\source\repos\DIR and CD\CD\obj\Debug\netcoreapp2.2\CD.pdb
+C:\Users\Игорь\source\repos\DIR and CD\CD\bin\Debug\netcoreapp2.2\help.txt
+C:\Users\Игорь\source\repos\DIR and CD\CD\bin\Debug\netcoreapp2.2\helpcd.txt

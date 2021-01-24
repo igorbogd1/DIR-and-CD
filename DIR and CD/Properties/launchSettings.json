@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DIR": {
+      "commandName": "Project",
+      "commandLineArgs": "-?"
+    }
+  }
+}

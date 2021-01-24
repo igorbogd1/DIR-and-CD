@@ -1,0 +1,12 @@
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\obj\Debug\netcoreapp2.2\DIR.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\obj\Debug\netcoreapp2.2\DIR.AssemblyInfoInputs.cache
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\obj\Debug\netcoreapp2.2\DIR.AssemblyInfo.cs
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\bin\Debug\netcoreapp2.2\help.txt
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\bin\Debug\netcoreapp2.2\helpdir.txt
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\bin\Debug\netcoreapp2.2\DIR.deps.json
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\bin\Debug\netcoreapp2.2\DIR.runtimeconfig.json
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\bin\Debug\netcoreapp2.2\DIR.runtimeconfig.dev.json
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\bin\Debug\netcoreapp2.2\DIR.dll
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\bin\Debug\netcoreapp2.2\DIR.pdb
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\obj\Debug\netcoreapp2.2\DIR.dll
+C:\Users\Игорь\source\repos\DIR and CD\DIR and CD\obj\Debug\netcoreapp2.2\DIR.pdb

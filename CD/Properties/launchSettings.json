@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CD": {
+      "commandName": "Project",
+      "commandLineArgs": "-?"
+    }
+  }
+}
