@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Игорь\\source\\repos\\DIR and CD\\CD\\CD.csproj",
+      "projectUniqueName": "C:\\Users\\Игорь\\source\\repos\\DIR and CD\\DIR-and-CD\\CD\\CD.csproj",
       "projectName": "CD",
-      "projectPath": "C:\\Users\\Игорь\\source\\repos\\DIR and CD\\CD\\CD.csproj",
+      "projectPath": "C:\\Users\\Игорь\\source\\repos\\DIR and CD\\DIR-and-CD\\CD\\CD.csproj",
       "packagesPath": "C:\\Users\\Игорь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Игорь\\source\\repos\\DIR and CD\\CD\\obj\\",
+      "outputPath": "C:\\Users\\Игорь\\source\\repos\\DIR and CD\\DIR-and-CD\\CD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

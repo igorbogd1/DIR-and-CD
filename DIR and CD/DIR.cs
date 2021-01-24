@@ -49,9 +49,14 @@ namespace DIR
                     {
                         if (currentCommandAttributes.Length == 1)
                             AnalyzeAttributesDir("-A");
+                        else if (currentCommandAttributes[1].Length == 2)
+                            AnalyzeAttributesDir(currentCommandAttributes[1].ToUpper());
+                        else
+                        {
+                            TakePathFolder(currentCommandAttributes[1]);
+                            AnalyzeAttributesDir(currentCommandAttributes.Length == 2 ? "-A" : currentCommandAttributes[2].ToUpper());
+                        }
 
-                        TakePathFolder(currentCommandAttributes[1]);
-                        AnalyzeAttributesDir(currentCommandAttributes.Length == 1 ? "-A" : currentCommandAttributes[1].ToUpper());
                         return false;
                     }
                 case "-?":
@@ -69,8 +74,19 @@ namespace DIR
 
         static bool TakePathFolder(string specifiedFolderPath)
         {
-            return false;
-        }
+            int position = specifiedFolderPath.LastIndexOf('\\');
+            if (position == (specifiedFolderPath.Length - 1))
+                specifiedFolderPath = specifiedFolderPath.Substring(0, specifiedFolderPath.Length - 1);
+
+                if (!Directory.Exists(specifiedFolderPath))
+                {
+                    Console.WriteLine("Папка не найдена " + specifiedFolderPath);
+                    return false;
+                }
+
+                currentFolderPath = specifiedFolderPath;
+                return true;
+         }
 
         static void AnalyzeAttributesDir(string currentAttributes)
         {
@@ -108,6 +124,7 @@ namespace DIR
                     Console.WriteLine("{0} " + "     " + " {1} ", nextFile.CreationTime, nextFile.Name);
                 }
             }
+
         }
 
         static void ReadFileHelpandDisplay(string chosenFile)
